@@ -1,0 +1,201 @@
+ID_Imovel;Tipo;Padrao;Area_m2;Quartos;Banheiros;Vagas_Garagem;Valor_Venda;Valor_Condominio;Cidade;Bairro;Data_Cadastro;Status
+1;Apartamento;Luxo;152;2;4;4;2958737.3;2169.21;Belo Horizonte;Copacabana;2023-10-11;Em Negociação
+2;Sobrado;Econômico;151;4;2;1;1809785.48;911.28;Belo Horizonte;Itaim Bibi;2024-12-19;Vendido
+3;Casa;Econômico;196;5;3;3;2226909.25;2133.61;Curitiba;Moema;2023-06-11;Em Negociação
+4;Casa;Médio Padrão;180;3;2;0;3520535.98;956.36;Rio de Janeiro;Barra da Tijuca;2023-10-18;Disponível
+5;Cobertura;Médio Padrão;145;5;3;0;2580102.88;877.37;Recife;Centro;2023-11-12;Vendido
+6;Casa;Médio Padrão;62;4;2;4;3071161.32;468.36;Recife;Jardins;2024-09-10;Disponível
+7;Cobertura;Luxo;98;2;3;1;1959908.62;624.3;Belo Horizonte;Copacabana;2024-02-15;Vendido
+8;Cobertura;Médio Padrão;49;3;4;0;3727710.87;1422.53;Recife;Boa Viagem;2023-05-04;Em Negociação
+9;Kitnet;Médio Padrão;201;1;1;0;3243599.53;792.9;Rio de Janeiro;Moema;2024-06-08;Em Negociação
+10;Kitnet;Luxo;186;4;2;1;3891224.94;1174.26;Curitiba;Jardins;2024-06-20;Disponível
+11;Apartamento;Alto Padrão;266;2;2;2;612106.8;353.04;Belo Horizonte;Savassi;2024-02-21;Vendido
+12;Cobertura;Econômico;338;1;2;0;4651454.5;709.79;Curitiba;Boa Viagem;2025-02-10;Em Negociação
+13;Kitnet;Luxo;236;4;2;2;1785917.09;1556.0;Curitiba;Jardins;2023-11-13;Vendido
+14;Sobrado;Luxo;228;1;3;1;1040819.76;383.96;São Paulo;Boa Viagem;2023-11-02;Em Negociação
+15;Sobrado;Alto Padrão;168;1;4;3;1112664.1;327.06;São Paulo;Barra da Tijuca;2023-06-10;Em Negociação
+16;Kitnet;Alto Padrão;314;3;1;1;3079306.04;1702.22;Curitiba;Moema;2024-02-06;Disponível
+17;Kitnet;Médio Padrão;128;4;3;1;1620137.48;1175.84;Curitiba;Itaim Bibi;2023-11-15;Em Negociação
+18;Apartamento;Luxo;188;5;1;3;4696983.99;2023.07;Rio de Janeiro;Moema;2024-03-29;Vendido
+19;Sobrado;Econômico;345;4;1;2;1612000.2;1518.35;Rio de Janeiro;Boa Viagem;2023-05-03;Vendido
+20;Apartamento;Luxo;144;5;4;3;201251.25;1608.54;Rio de Janeiro;Itaim Bibi;2023-08-05;Disponível
+21;Apartamento;Luxo;349;2;2;4;3324274.93;1815.7;Belo Horizonte;Moema;2023-03-17;Disponível
+22;Casa;Luxo;75;1;2;1;706771.09;1625.38;São Paulo;Boa Viagem;2025-01-29;Disponível
+23;Sobrado;Alto Padrão;276;5;4;1;3290584.23;1898.69;Belo Horizonte;Barra da Tijuca;2023-07-29;Disponível
+24;Casa;Médio Padrão;150;3;4;0;2243602.07;2229.3;Rio de Janeiro;Savassi;2024-09-28;Em Negociação
+25;Sobrado;Econômico;200;2;4;0;4082882.07;2360.6;Recife;Copacabana;2024-07-10;Disponível
+26;Apartamento;Econômico;263;5;1;1;3868131.37;2006.03;Recife;Itaim Bibi;2023-06-22;Em Negociação
+27;Cobertura;Luxo;229;5;4;1;1008234.8;2270.99;Belo Horizonte;Barra da Tijuca;2023-10-22;Disponível
+28;Kitnet;Médio Padrão;202;1;4;0;861299.95;1437.69;São Paulo;Moema;2023-06-27;Em Negociação
+29;Kitnet;Alto Padrão;313;3;4;2;4873085.64;456.97;Belo Horizonte;Centro;2024-04-11;Disponível
+30;Sobrado;Econômico;145;5;4;2;159519.38;2306.57;Curitiba;Jardins;2025-01-14;Disponível
+31;Cobertura;Luxo;87;5;3;1;4590342.68;532.56;Curitiba;Copacabana;2023-04-26;Disponível
+32;Sobrado;Médio Padrão;133;5;1;0;1077109.65;1005.29;Curitiba;Savassi;2024-11-12;Vendido
+33;Kitnet;Econômico;93;5;1;1;2581634.27;514.78;Recife;Savassi;2024-10-22;Em Negociação
+34;Cobertura;Médio Padrão;287;2;2;3;423870.98;1281.15;Recife;Boa Viagem;2023-11-29;Disponível
+35;Sobrado;Econômico;48;2;2;4;1137342.05;994.27;São Paulo;Savassi;2023-09-03;Disponível
+36;Casa;Luxo;385;3;3;1;1057930.2;939.81;Recife;Savassi;2024-01-18;Vendido
+37;Kitnet;Alto Padrão;254;3;3;1;2432982.78;2467.21;Belo Horizonte;Boa Viagem;2023-06-15;Disponível
+38;Cobertura;Luxo;234;1;1;1;670648.16;1733.91;Curitiba;Jardins;2024-07-13;Disponível
+39;Kitnet;Econômico;299;3;2;4;988577.85;2390.02;Belo Horizonte;Boa Viagem;2023-05-09;Disponível
+40;Apartamento;Médio Padrão;171;1;1;0;269062.33;358.26;Curitiba;Moema;2024-12-08;Vendido
+41;Apartamento;Alto Padrão;156;5;3;4;2626279.1;1691.91;Curitiba;Moema;2023-02-14;Disponível
+42;Sobrado;Luxo;330;2;1;4;4662768.05;512.43;Belo Horizonte;Itaim Bibi;2024-04-13;Vendido
+43;Apartamento;Alto Padrão;169;2;1;1;2422956.08;2421.23;São Paulo;Jardins;2024-02-04;Vendido
+44;Kitnet;Econômico;148;2;1;4;3182354.25;881.55;Rio de Janeiro;Centro;2024-08-19;Em Negociação
+45;Kitnet;Médio Padrão;377;5;1;1;4775416.76;1996.45;Belo Horizonte;Jardins;2025-01-06;Em Negociação
+46;Apartamento;Alto Padrão;75;4;1;2;1170863.41;2272.32;São Paulo;Boa Viagem;2024-01-17;Vendido
+47;Apartamento;Alto Padrão;43;1;1;3;2342154.29;2121.97;São Paulo;Moema;2024-05-11;Disponível
+48;Sobrado;Médio Padrão;274;3;3;2;951408.93;2473.01;São Paulo;Jardins;2023-06-15;Vendido
+49;Cobertura;Luxo;124;5;4;0;2272081.31;1574.02;Recife;Moema;2024-02-28;Disponível
+50;Sobrado;Econômico;389;4;4;0;4214670.4;1783.95;São Paulo;Centro;2024-05-06;Vendido
+51;Casa;Luxo;380;5;4;2;2982774.1;2302.05;São Paulo;Boa Viagem;2023-05-12;Em Negociação
+52;Kitnet;Médio Padrão;311;3;2;0;2825979.7;760.75;Rio de Janeiro;Jardins;2024-12-01;Em Negociação
+53;Cobertura;Luxo;53;1;2;1;3935592.99;2082.54;Rio de Janeiro;Barra da Tijuca;2024-09-24;Vendido
+54;Cobertura;Econômico;128;3;2;0;1474196.88;2088.7;Belo Horizonte;Moema;2024-10-16;Em Negociação
+55;Apartamento;Luxo;183;2;4;0;3817233.86;493.81;Belo Horizonte;Copacabana;2024-06-12;Disponível
+56;Apartamento;Alto Padrão;265;2;1;3;4752352.09;2160.81;Rio de Janeiro;Copacabana;2023-04-24;Vendido
+57;Kitnet;Médio Padrão;318;4;3;1;3300141.9;1127.65;Curitiba;Barra da Tijuca;2024-08-13;Disponível
+58;Casa;Luxo;246;5;2;0;3916008.53;465.06;Curitiba;Savassi;2023-05-27;Disponível
+59;Apartamento;Luxo;296;2;3;2;3214167.43;1912.68;São Paulo;Copacabana;2023-05-13;Vendido
+60;Apartamento;Médio Padrão;157;3;2;3;3052000.82;2217.52;Recife;Centro;2023-11-20;Disponível
+61;Sobrado;Luxo;194;2;2;0;376578.07;1465.3;Rio de Janeiro;Itaim Bibi;2024-02-11;Vendido
+62;Kitnet;Alto Padrão;61;1;4;1;4279188.95;2190.35;Belo Horizonte;Boa Viagem;2023-02-20;Disponível
+63;Casa;Alto Padrão;118;2;2;0;1943174.16;832.59;Rio de Janeiro;Moema;2023-06-02;Vendido
+64;Kitnet;Médio Padrão;276;5;4;2;435713.01;1452.06;Recife;Moema;2023-07-27;Disponível
+65;Kitnet;Econômico;357;3;1;2;257145.48;1710.7;Rio de Janeiro;Copacabana;2023-08-29;Disponível
+66;Apartamento;Médio Padrão;330;1;3;2;3960572.25;744.88;São Paulo;Barra da Tijuca;2023-04-14;Em Negociação
+67;Casa;Alto Padrão;158;2;4;4;3441769.03;438.63;Curitiba;Barra da Tijuca;2023-04-12;Disponível
+68;Apartamento;Alto Padrão;93;1;1;3;2000038.87;2215.13;São Paulo;Centro;2024-01-28;Vendido
+69;Cobertura;Alto Padrão;245;2;1;0;3898909.89;1969.7;Recife;Itaim Bibi;2024-11-25;Vendido
+70;Cobertura;Econômico;251;5;3;0;2130710.73;586.33;São Paulo;Jardins;2024-03-29;Em Negociação
+71;Sobrado;Médio Padrão;159;4;2;1;1288160.64;704.69;São Paulo;Savassi;2024-04-19;Disponível
+72;Sobrado;Médio Padrão;389;3;2;3;2761540.26;2401.36;Rio de Janeiro;Moema;2025-01-26;Vendido
+73;Cobertura;Médio Padrão;104;4;1;4;3753700.55;2299.19;Rio de Janeiro;Itaim Bibi;2024-11-17;Disponível
+74;Apartamento;Alto Padrão;384;1;1;1;3893796.74;2401.85;Recife;Itaim Bibi;2024-11-30;Disponível
+75;Cobertura;Luxo;274;5;1;0;4396522.61;2308.56;Belo Horizonte;Moema;2023-03-10;Disponível
+76;Apartamento;Alto Padrão;163;3;4;0;4091446.89;665.5;Rio de Janeiro;Barra da Tijuca;2024-07-23;Disponível
+77;Apartamento;Econômico;333;5;2;4;1026091.91;2090.87;Belo Horizonte;Boa Viagem;2023-09-05;Em Negociação
+78;Kitnet;Econômico;234;3;4;4;4895522.62;290.97;Recife;Copacabana;2023-04-03;Disponível
+79;Sobrado;Luxo;270;2;3;0;3244286.15;933.19;Belo Horizonte;Centro;2024-01-16;Vendido
+80;Casa;Médio Padrão;248;1;2;4;2020134.13;567.32;Belo Horizonte;Boa Viagem;2024-02-24;Vendido
+81;Kitnet;Econômico;122;1;4;2;4278338.49;970.94;Recife;Itaim Bibi;2025-01-20;Em Negociação
+82;Cobertura;Econômico;219;3;4;2;2258841.34;658.31;São Paulo;Centro;2024-05-28;Disponível
+83;Casa;Alto Padrão;87;2;4;0;2949559.57;2240.4;Belo Horizonte;Moema;2024-02-12;Disponível
+84;Apartamento;Luxo;379;3;2;4;4611799.51;1608.62;Belo Horizonte;Savassi;2023-04-29;Em Negociação
+85;Sobrado;Alto Padrão;58;3;3;4;1616929.61;1841.69;Curitiba;Itaim Bibi;2024-05-02;Vendido
+86;Sobrado;Médio Padrão;201;3;4;4;3286121.16;974.59;Recife;Savassi;2023-09-21;Em Negociação
+87;Sobrado;Médio Padrão;215;3;3;0;4182580.0;1560.92;Recife;Copacabana;2024-03-08;Em Negociação
+88;Casa;Médio Padrão;246;5;3;3;2054389.04;2235.24;São Paulo;Copacabana;2024-09-19;Disponível
+89;Apartamento;Luxo;108;2;2;4;4880527.8;1158.29;Rio de Janeiro;Itaim Bibi;2024-03-25;Em Negociação
+90;Sobrado;Econômico;99;3;1;0;4975287.85;1800.7;Recife;Itaim Bibi;2025-02-03;Vendido
+91;Casa;Econômico;254;5;2;1;3899081.18;2371.67;Recife;Centro;2024-02-27;Em Negociação
+92;Casa;Alto Padrão;222;2;2;1;3578937.56;2437.81;São Paulo;Centro;2024-07-22;Disponível
+93;Sobrado;Luxo;235;2;1;1;2857935.95;1717.34;Recife;Centro;2023-10-11;Vendido
+94;Casa;Luxo;94;5;3;0;2855209.54;702.77;São Paulo;Barra da Tijuca;2023-10-13;Vendido
+95;Kitnet;Econômico;206;2;1;0;4979743.43;2198.65;São Paulo;Copacabana;2023-07-06;Disponível
+96;Apartamento;Alto Padrão;361;1;3;0;3339432.16;1743.41;Curitiba;Boa Viagem;2023-02-25;Disponível
+97;Cobertura;Médio Padrão;203;5;3;0;3998118.92;1738.02;Belo Horizonte;Savassi;2024-05-22;Disponível
+98;Cobertura;Luxo;387;2;2;3;1944259.44;958.1;Belo Horizonte;Moema;2024-08-04;Vendido
+99;Casa;Econômico;372;3;1;4;2313678.01;1416.53;Belo Horizonte;Savassi;2023-08-16;Em Negociação
+100;Apartamento;Alto Padrão;302;2;4;1;2607713.57;457.9;Rio de Janeiro;Boa Viagem;2024-09-08;Em Negociação
+101;Kitnet;Econômico;316;5;4;0;3710910.55;2492.01;Belo Horizonte;Copacabana;2023-07-20;Em Negociação
+102;Kitnet;Luxo;236;5;2;2;3626735.36;904.26;Rio de Janeiro;Savassi;2024-06-20;Disponível
+103;Kitnet;Médio Padrão;156;2;4;3;1057811.44;2429.68;São Paulo;Jardins;2023-02-22;Disponível
+104;Cobertura;Alto Padrão;371;2;3;4;1799429.97;2322.61;São Paulo;Itaim Bibi;2024-07-18;Disponível
+105;Sobrado;Alto Padrão;185;4;2;3;322246.54;1767.18;Recife;Copacabana;2024-06-29;Em Negociação
+106;Sobrado;Luxo;259;5;1;3;1129038.97;941.38;São Paulo;Centro;2024-06-17;Em Negociação
+107;Sobrado;Econômico;314;3;2;3;4360369.4;875.37;Belo Horizonte;Moema;2023-03-26;Vendido
+108;Casa;Luxo;154;1;2;1;162909.89;2179.05;Belo Horizonte;Boa Viagem;2025-02-03;Disponível
+109;Kitnet;Médio Padrão;101;3;3;2;3577742.4;1821.79;Recife;Jardins;2023-02-27;Vendido
+110;Apartamento;Alto Padrão;250;2;4;2;928344.7;1028.97;Curitiba;Copacabana;2023-11-09;Vendido
+111;Casa;Luxo;326;4;2;3;2097556.83;1385.67;Rio de Janeiro;Jardins;2024-12-06;Disponível
+112;Kitnet;Luxo;326;5;2;2;3756187.09;286.52;Belo Horizonte;Barra da Tijuca;2024-08-28;Disponível
+113;Casa;Econômico;70;1;2;3;824133.42;1406.84;Recife;Centro;2024-11-02;Vendido
+114;Apartamento;Alto Padrão;196;4;3;4;898008.83;1804.22;Recife;Savassi;2024-04-21;Em Negociação
+115;Cobertura;Médio Padrão;281;1;1;0;351178.7;906.37;Belo Horizonte;Copacabana;2023-08-18;Em Negociação
+116;Kitnet;Econômico;257;3;1;3;1588052.99;889.11;Curitiba;Barra da Tijuca;2023-08-06;Em Negociação
+117;Cobertura;Alto Padrão;216;5;3;3;4789964.29;1231.81;Recife;Savassi;2024-05-01;Em Negociação
+118;Kitnet;Econômico;115;3;3;3;1930441.99;1234.54;Recife;Barra da Tijuca;2024-08-28;Disponível
+119;Sobrado;Econômico;236;1;1;3;387863.29;855.54;Belo Horizonte;Centro;2024-03-05;Em Negociação
+120;Kitnet;Alto Padrão;317;5;2;3;4837009.57;1176.77;Rio de Janeiro;Copacabana;2024-06-01;Em Negociação
+121;Sobrado;Econômico;347;2;4;1;3862578.29;1430.32;Rio de Janeiro;Itaim Bibi;2024-07-27;Em Negociação
+122;Kitnet;Médio Padrão;220;5;1;3;1362201.21;2183.53;Belo Horizonte;Copacabana;2024-08-29;Em Negociação
+123;Cobertura;Econômico;106;5;1;0;4269262.53;925.79;Belo Horizonte;Copacabana;2023-05-24;Disponível
+124;Kitnet;Alto Padrão;394;2;2;0;935783.64;1466.24;Curitiba;Barra da Tijuca;2023-11-04;Disponível
+125;Apartamento;Luxo;168;5;4;0;2278942.9;443.89;Belo Horizonte;Moema;2023-09-19;Disponível
+126;Cobertura;Econômico;175;4;2;2;2121403.73;1013.47;Curitiba;Savassi;2023-08-23;Disponível
+127;Kitnet;Alto Padrão;267;3;4;1;2010661.52;2249.16;Recife;Savassi;2023-07-02;Disponível
+128;Kitnet;Alto Padrão;240;2;4;4;3634275.97;2035.46;Curitiba;Savassi;2024-11-12;Vendido
+129;Apartamento;Médio Padrão;255;1;2;0;2300821.86;631.8;São Paulo;Boa Viagem;2024-07-16;Disponível
+130;Casa;Médio Padrão;311;3;2;1;755044.34;1807.82;Curitiba;Itaim Bibi;2024-08-08;Vendido
+131;Kitnet;Alto Padrão;179;1;1;4;2632203.42;1983.2;Recife;Jardins;2025-02-10;Disponível
+132;Casa;Alto Padrão;278;3;2;3;3707273.56;1625.41;Recife;Barra da Tijuca;2025-01-14;Vendido
+133;Kitnet;Econômico;188;5;2;3;1665665.86;1766.95;Recife;Itaim Bibi;2025-02-12;Vendido
+134;Sobrado;Médio Padrão;201;2;1;4;4326411.48;290.16;Belo Horizonte;Barra da Tijuca;2024-06-28;Vendido
+135;Cobertura;Econômico;134;5;2;1;639011.42;2332.39;São Paulo;Savassi;2024-08-15;Em Negociação
+136;Apartamento;Alto Padrão;231;2;3;2;2752816.25;2467.16;Curitiba;Copacabana;2024-01-12;Em Negociação
+137;Apartamento;Alto Padrão;257;2;2;0;1473063.11;973.43;Curitiba;Savassi;2024-11-06;Disponível
+138;Sobrado;Luxo;175;2;1;0;543076.63;1480.21;Belo Horizonte;Itaim Bibi;2023-07-17;Disponível
+139;Sobrado;Luxo;157;2;4;3;1470451.94;710.84;Belo Horizonte;Boa Viagem;2025-02-02;Em Negociação
+140;Sobrado;Médio Padrão;95;5;4;0;224364.93;976.19;São Paulo;Savassi;2024-10-08;Vendido
+141;Apartamento;Médio Padrão;270;4;1;4;280420.83;497.97;Rio de Janeiro;Jardins;2024-01-13;Vendido
+142;Cobertura;Econômico;146;2;1;4;677589.44;669.53;Curitiba;Itaim Bibi;2023-02-20;Vendido
+143;Kitnet;Alto Padrão;79;2;4;3;4271228.83;2230.88;Rio de Janeiro;Copacabana;2023-11-23;Vendido
+144;Casa;Luxo;358;2;2;0;2235943.2;1209.56;Recife;Savassi;2024-12-06;Disponível
+145;Casa;Econômico;342;3;2;3;1297245.23;495.86;Curitiba;Moema;2024-11-26;Vendido
+146;Cobertura;Luxo;197;3;1;1;3802196.25;2310.39;Belo Horizonte;Barra da Tijuca;2024-06-09;Vendido
+147;Cobertura;Alto Padrão;94;3;4;2;1940652.22;1604.1;Recife;Jardins;2023-02-16;Em Negociação
+148;Sobrado;Luxo;55;5;4;3;1988381.16;1205.73;Rio de Janeiro;Itaim Bibi;2024-10-25;Em Negociação
+149;Sobrado;Alto Padrão;226;3;4;2;517378.55;1601.83;São Paulo;Jardins;2023-09-08;Disponível
+150;Cobertura;Luxo;278;3;2;0;2069342.93;1058.73;Curitiba;Savassi;2023-10-10;Vendido
+151;Apartamento;Econômico;385;2;3;1;4428881.97;530.28;Recife;Savassi;2025-01-02;Disponível
+152;Cobertura;Luxo;238;1;2;1;1504021.72;2474.49;Belo Horizonte;Jardins;2024-05-24;Disponível
+153;Sobrado;Econômico;308;2;2;1;1782560.08;1400.67;Recife;Barra da Tijuca;2024-06-17;Vendido
+154;Kitnet;Econômico;189;1;4;0;4973115.04;1817.18;Belo Horizonte;Copacabana;2024-05-01;Vendido
+155;Sobrado;Médio Padrão;69;5;3;3;2965172.99;741.71;Belo Horizonte;Copacabana;2023-07-19;Vendido
+156;Casa;Médio Padrão;269;3;1;2;2313812.62;2381.75;Recife;Centro;2023-06-14;Disponível
+157;Apartamento;Médio Padrão;180;5;4;1;329152.7;2233.12;Curitiba;Moema;2023-11-30;Disponível
+158;Sobrado;Luxo;392;2;2;2;4152127.15;719.7;São Paulo;Savassi;2023-10-03;Em Negociação
+159;Casa;Médio Padrão;370;4;3;2;4020586.8;771.24;Recife;Copacabana;2023-12-15;Vendido
+160;Kitnet;Luxo;94;2;3;3;4467781.47;2354.41;Recife;Jardins;2024-01-07;Disponível
+161;Sobrado;Luxo;215;5;1;3;1984119.26;857.95;Curitiba;Moema;2023-12-19;Disponível
+162;Apartamento;Alto Padrão;294;2;4;3;1062136.46;2326.22;Belo Horizonte;Jardins;2024-07-02;Em Negociação
+163;Cobertura;Luxo;257;2;2;4;1660129.95;1691.94;Curitiba;Jardins;2023-09-13;Vendido
+164;Sobrado;Luxo;77;5;4;1;401562.13;2220.4;Rio de Janeiro;Copacabana;2024-11-26;Em Negociação
+165;Apartamento;Luxo;46;2;4;4;4899234.6;1878.03;Recife;Boa Viagem;2025-01-06;Em Negociação
+166;Sobrado;Médio Padrão;190;4;4;1;394186.77;336.08;Rio de Janeiro;Copacabana;2024-04-19;Em Negociação
+167;Cobertura;Econômico;253;4;3;0;2063014.5;1637.44;Belo Horizonte;Barra da Tijuca;2024-12-20;Disponível
+168;Kitnet;Econômico;199;2;4;3;3135960.75;1676.79;Rio de Janeiro;Copacabana;2024-05-03;Em Negociação
+169;Apartamento;Econômico;50;2;2;4;957663.37;1945.63;Curitiba;Savassi;2024-04-13;Vendido
+170;Sobrado;Luxo;262;4;3;0;2502932.1;1209.91;Recife;Boa Viagem;2024-03-11;Disponível
+171;Kitnet;Alto Padrão;213;1;3;2;2591830.19;630.59;Belo Horizonte;Barra da Tijuca;2023-09-20;Vendido
+172;Apartamento;Econômico;261;3;3;3;1738653.57;2424.14;Curitiba;Centro;2024-10-19;Disponível
+173;Casa;Médio Padrão;184;3;3;1;3186715.05;554.94;Curitiba;Itaim Bibi;2024-02-25;Em Negociação
+174;Cobertura;Luxo;122;2;3;4;3040493.93;880.88;São Paulo;Barra da Tijuca;2024-04-22;Disponível
+175;Casa;Alto Padrão;53;5;3;3;2498986.57;1185.88;Belo Horizonte;Centro;2024-12-23;Vendido
+176;Casa;Alto Padrão;88;1;4;0;2371321.01;1867.48;Recife;Barra da Tijuca;2024-08-01;Em Negociação
+177;Kitnet;Alto Padrão;372;2;3;4;2263119.99;1898.46;Curitiba;Copacabana;2023-12-15;Disponível
+178;Casa;Médio Padrão;155;3;1;1;2351718.45;1661.36;Rio de Janeiro;Centro;2024-02-08;Em Negociação
+179;Casa;Médio Padrão;268;1;1;0;2467976.53;611.08;Belo Horizonte;Savassi;2023-06-03;Disponível
+180;Apartamento;Médio Padrão;161;4;2;2;4811614.83;738.19;Curitiba;Jardins;2024-03-11;Disponível
+181;Casa;Alto Padrão;282;2;1;4;2861632.56;1305.89;São Paulo;Barra da Tijuca;2023-06-21;Vendido
+182;Casa;Luxo;236;3;2;0;2641334.81;2066.0;Recife;Savassi;2024-08-17;Em Negociação
+183;Cobertura;Médio Padrão;125;1;3;2;3562639.57;2416.42;Recife;Copacabana;2023-02-22;Em Negociação
+184;Cobertura;Econômico;357;1;3;4;4153213.02;1309.46;Rio de Janeiro;Centro;2024-11-20;Disponível
+185;Sobrado;Luxo;208;5;1;2;2298773.9;607.55;Curitiba;Itaim Bibi;2024-06-16;Vendido
+186;Kitnet;Médio Padrão;236;1;4;2;4541804.52;1260.76;Curitiba;Savassi;2023-12-22;Vendido
+187;Sobrado;Econômico;396;4;2;0;1247352.88;1049.66;Belo Horizonte;Centro;2024-01-22;Vendido
+188;Sobrado;Econômico;106;1;2;3;3434511.89;1927.75;Belo Horizonte;Centro;2024-06-03;Disponível
+189;Cobertura;Luxo;143;4;4;1;1486294.42;1366.77;São Paulo;Barra da Tijuca;2023-10-09;Disponível
+190;Apartamento;Alto Padrão;103;4;3;3;4559550.52;1823.95;Recife;Centro;2023-06-22;Em Negociação
+191;Kitnet;Alto Padrão;361;5;3;0;2584677.21;1610.98;Curitiba;Jardins;2023-04-25;Em Negociação
+192;Cobertura;Econômico;375;3;3;1;3287749.57;332.02;Curitiba;Savassi;2024-08-23;Em Negociação
+193;Casa;Econômico;327;4;1;2;2422986.86;1065.74;Rio de Janeiro;Moema;2024-11-10;Disponível
+194;Sobrado;Médio Padrão;242;4;1;3;1472099.47;801.14;São Paulo;Savassi;2023-09-13;Em Negociação
+195;Cobertura;Alto Padrão;173;4;2;1;2521389.66;1418.47;Recife;Copacabana;2024-07-23;Vendido
+196;Casa;Médio Padrão;281;1;3;0;348159.47;2407.03;Belo Horizonte;Itaim Bibi;2024-06-20;Vendido
+197;Casa;Alto Padrão;238;2;1;2;1768149.71;221.95;São Paulo;Jardins;2023-03-27;Em Negociação
+198;Cobertura;Médio Padrão;117;1;3;4;4576104.59;209.61;Belo Horizonte;Savassi;2024-10-25;Em Negociação
+199;Apartamento;Luxo;161;4;4;2;3508990.81;2091.38;Rio de Janeiro;Itaim Bibi;2024-01-14;Disponível
+200;Apartamento;Luxo;281;2;4;1;186294.02;582.15;Curitiba;Copacabana;2024-06-27;Disponível

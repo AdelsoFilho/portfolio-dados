@@ -1,0 +1,121 @@
+ID_Venda;ID_Imovel;Data_Venda;Valor_Final;Corretor;Forma_Pagamento;Cliente
+1;23;2024-04-26;3290584.23;Carlos Souza;Consórcio;Cliente 1
+2;8;2024-03-15;3727710.87;Maria Oliveira;Financiamento;Cliente 2
+3;104;2024-05-22;1799429.97;Maria Oliveira;À Vista;Cliente 3
+4;39;2024-11-15;988577.85;Ana Lima;Consórcio;Cliente 4
+5;79;2024-07-19;3244286.15;Ana Lima;Financiamento;Cliente 5
+6;132;2024-12-04;3707273.56;Bruno Rocha;À Vista;Cliente 6
+7;128;2024-07-30;3634275.97;Ana Lima;À Vista;Cliente 7
+8;65;2024-10-01;257145.48;Maria Oliveira;À Vista;Cliente 8
+9;180;2024-05-05;4811614.83;Carlos Souza;Financiamento;Cliente 9
+10;144;2024-05-20;2235943.2;Carlos Souza;À Vista;Cliente 10
+11;131;2024-04-13;2632203.42;Bruno Rocha;Financiamento;Cliente 11
+12;150;2024-02-29;2069342.93;João Silva;Financiamento;Cliente 12
+13;174;2024-11-17;3040493.93;Carlos Souza;Consórcio;Cliente 13
+14;52;2024-03-25;2825979.7;Carlos Souza;À Vista;Cliente 14
+15;28;2025-01-23;861299.95;Bruno Rocha;Financiamento;Cliente 15
+16;3;2024-04-19;2226909.25;Carlos Souza;À Vista;Cliente 16
+17;90;2024-08-23;4975287.85;Carlos Souza;Financiamento;Cliente 17
+18;26;2024-03-21;3868131.37;Ana Lima;À Vista;Cliente 18
+19;34;2024-03-12;423870.98;João Silva;À Vista;Cliente 19
+20;89;2024-07-20;4880527.8;Maria Oliveira;Financiamento;Cliente 20
+21;64;2024-12-10;435713.01;Bruno Rocha;Financiamento;Cliente 21
+22;135;2024-05-15;639011.42;Ana Lima;Financiamento;Cliente 22
+23;165;2024-04-16;4899234.6;Bruno Rocha;Consórcio;Cliente 23
+24;105;2024-06-29;322246.54;João Silva;Financiamento;Cliente 24
+25;183;2024-11-11;3562639.57;João Silva;Consórcio;Cliente 25
+26;128;2025-01-03;3634275.97;Bruno Rocha;Consórcio;Cliente 26
+27;135;2024-06-14;639011.42;Bruno Rocha;Financiamento;Cliente 27
+28;19;2024-02-20;1612000.2;Maria Oliveira;Consórcio;Cliente 28
+29;31;2024-12-23;4590342.68;Bruno Rocha;Consórcio;Cliente 29
+30;74;2024-03-08;3893796.74;Maria Oliveira;Consórcio;Cliente 30
+31;86;2024-10-03;3286121.16;Carlos Souza;À Vista;Cliente 31
+32;172;2024-04-24;1738653.57;Bruno Rocha;À Vista;Cliente 32
+33;82;2024-08-27;2258841.34;Carlos Souza;À Vista;Cliente 33
+34;131;2024-12-07;2632203.42;Carlos Souza;Consórcio;Cliente 34
+35;168;2024-08-15;3135960.75;João Silva;À Vista;Cliente 35
+36;145;2024-02-17;1297245.23;Maria Oliveira;Consórcio;Cliente 36
+37;99;2024-03-12;2313678.01;Maria Oliveira;Consórcio;Cliente 37
+38;45;2024-12-07;4775416.76;Maria Oliveira;À Vista;Cliente 38
+39;44;2024-06-16;3182354.25;João Silva;Financiamento;Cliente 39
+40;61;2025-01-13;376578.07;João Silva;Financiamento;Cliente 40
+41;52;2024-12-26;2825979.7;João Silva;Consórcio;Cliente 41
+42;174;2024-02-18;3040493.93;Bruno Rocha;À Vista;Cliente 42
+43;50;2024-05-20;4214670.4;Ana Lima;Financiamento;Cliente 43
+44;122;2024-09-14;1362201.21;João Silva;Consórcio;Cliente 44
+45;73;2024-11-19;3753700.55;Carlos Souza;Financiamento;Cliente 45
+46;200;2024-07-31;186294.02;Carlos Souza;Financiamento;Cliente 46
+47;59;2025-01-31;3214167.43;Maria Oliveira;À Vista;Cliente 47
+48;40;2025-01-06;269062.33;Carlos Souza;À Vista;Cliente 48
+49;27;2024-11-01;1008234.8;Carlos Souza;À Vista;Cliente 49
+50;62;2024-07-23;4279188.95;João Silva;Financiamento;Cliente 50
+51;46;2024-02-19;1170863.41;Maria Oliveira;À Vista;Cliente 51
+52;119;2024-07-11;387863.29;Ana Lima;Consórcio;Cliente 52
+53;127;2024-04-02;2010661.52;Bruno Rocha;Consórcio;Cliente 53
+54;200;2024-09-07;186294.02;Bruno Rocha;Consórcio;Cliente 54
+55;53;2025-01-10;3935592.99;Ana Lima;Consórcio;Cliente 55
+56;39;2024-08-08;988577.85;Ana Lima;Consórcio;Cliente 56
+57;128;2024-04-14;3634275.97;Carlos Souza;Consórcio;Cliente 57
+58;182;2024-09-07;2641334.81;Bruno Rocha;Financiamento;Cliente 58
+59;23;2024-11-28;3290584.23;Maria Oliveira;Financiamento;Cliente 59
+60;30;2024-12-19;159519.38;Bruno Rocha;Consórcio;Cliente 60
+61;197;2024-12-17;1768149.71;Bruno Rocha;Consórcio;Cliente 61
+62;23;2024-07-11;3290584.23;João Silva;À Vista;Cliente 62
+63;58;2024-09-17;3916008.53;Bruno Rocha;Consórcio;Cliente 63
+64;72;2024-02-17;2761540.26;Maria Oliveira;Consórcio;Cliente 64
+65;187;2024-06-21;1247352.88;Carlos Souza;Consórcio;Cliente 65
+66;30;2024-12-01;159519.38;Bruno Rocha;À Vista;Cliente 66
+67;95;2024-08-15;4979743.43;Maria Oliveira;Financiamento;Cliente 67
+68;98;2024-08-20;1944259.44;Carlos Souza;Financiamento;Cliente 68
+69;74;2025-01-11;3893796.74;João Silva;Financiamento;Cliente 69
+70;25;2024-03-21;4082882.07;Bruno Rocha;Financiamento;Cliente 70
+71;113;2025-01-16;824133.42;João Silva;Consórcio;Cliente 71
+72;120;2024-11-21;4837009.57;Ana Lima;À Vista;Cliente 72
+73;46;2024-12-05;1170863.41;Bruno Rocha;Financiamento;Cliente 73
+74;136;2024-06-24;2752816.25;Carlos Souza;Financiamento;Cliente 74
+75;148;2024-02-24;1988381.16;Maria Oliveira;Financiamento;Cliente 75
+76;60;2024-12-14;3052000.82;Bruno Rocha;Consórcio;Cliente 76
+77;76;2024-10-04;4091446.89;João Silva;À Vista;Cliente 77
+78;3;2024-09-19;2226909.25;Maria Oliveira;Financiamento;Cliente 78
+79;105;2024-08-16;322246.54;Ana Lima;À Vista;Cliente 79
+80;51;2024-10-08;2982774.1;Maria Oliveira;Consórcio;Cliente 80
+81;112;2025-01-05;3756187.09;João Silva;Financiamento;Cliente 81
+82;4;2024-02-13;3520535.98;Maria Oliveira;Consórcio;Cliente 82
+83;157;2024-06-09;329152.7;Carlos Souza;Financiamento;Cliente 83
+84;25;2025-01-24;4082882.07;João Silva;Consórcio;Cliente 84
+85;119;2024-10-13;387863.29;Maria Oliveira;Financiamento;Cliente 85
+86;157;2025-01-20;329152.7;Bruno Rocha;À Vista;Cliente 86
+87;127;2024-07-23;2010661.52;João Silva;Consórcio;Cliente 87
+88;127;2024-10-29;2010661.52;Carlos Souza;À Vista;Cliente 88
+89;17;2024-05-15;1620137.48;Maria Oliveira;Consórcio;Cliente 89
+90;175;2024-07-30;2498986.57;Ana Lima;À Vista;Cliente 90
+91;148;2024-04-20;1988381.16;Carlos Souza;Consórcio;Cliente 91
+92;198;2024-04-09;4576104.59;João Silva;Consórcio;Cliente 92
+93;135;2024-07-29;639011.42;Carlos Souza;Consórcio;Cliente 93
+94;48;2024-04-18;951408.93;Ana Lima;À Vista;Cliente 94
+95;118;2024-02-21;1930441.99;Maria Oliveira;À Vista;Cliente 95
+96;190;2024-11-17;4559550.52;Ana Lima;Consórcio;Cliente 96
+97;172;2024-05-22;1738653.57;João Silva;À Vista;Cliente 97
+98;195;2024-05-25;2521389.66;Maria Oliveira;À Vista;Cliente 98
+99;124;2024-04-10;935783.64;Maria Oliveira;Consórcio;Cliente 99
+100;84;2024-09-14;4611799.51;Ana Lima;Financiamento;Cliente 100
+101;137;2025-01-17;1473063.11;João Silva;Financiamento;Cliente 101
+102;17;2024-03-22;1620137.48;Bruno Rocha;À Vista;Cliente 102
+103;150;2024-10-17;2069342.93;Ana Lima;Financiamento;Cliente 103
+104;56;2024-11-16;4752352.09;Carlos Souza;À Vista;Cliente 104
+105;146;2024-08-08;3802196.25;Bruno Rocha;À Vista;Cliente 105
+106;35;2025-01-04;1137342.05;João Silva;À Vista;Cliente 106
+107;90;2024-12-28;4975287.85;Maria Oliveira;Consórcio;Cliente 107
+108;200;2025-01-14;186294.02;Bruno Rocha;Financiamento;Cliente 108
+109;176;2025-01-25;2371321.01;Ana Lima;Consórcio;Cliente 109
+110;16;2024-03-12;3079306.04;Bruno Rocha;À Vista;Cliente 110
+111;125;2024-02-23;2278942.9;João Silva;Consórcio;Cliente 111
+112;30;2024-03-15;159519.38;Ana Lima;À Vista;Cliente 112
+113;90;2024-12-07;4975287.85;Ana Lima;Financiamento;Cliente 113
+114;137;2025-01-07;1473063.11;Ana Lima;Consórcio;Cliente 114
+115;86;2024-06-20;3286121.16;Maria Oliveira;Financiamento;Cliente 115
+116;64;2025-01-30;435713.01;João Silva;Consórcio;Cliente 116
+117;181;2024-05-20;2861632.56;Maria Oliveira;Financiamento;Cliente 117
+118;183;2024-06-22;3562639.57;Ana Lima;Consórcio;Cliente 118
+119;193;2024-07-05;2422986.86;Maria Oliveira;À Vista;Cliente 119
+120;3;2024-05-22;2226909.25;Carlos Souza;À Vista;Cliente 120
