@@ -6,6 +6,7 @@ from datetime import datetime, timedelta
 np.random.seed(42)  # Para reproducibilidade
 
 # Listas de valores fictícios
+estados = ["SP", "RJ", "MG", "PR", "RS", "DF"]
 regioes = ["São Paulo", "Rio de Janeiro", "Belo Horizonte", "Curitiba", "Porto Alegre", "Brasília"]
 canais_venda = ["Online", "Presencial", "Corretor Parceiro"]
 tipos_campanha = ["Google Ads", "Facebook Ads", "Feirão Presencial", "Corretores Parceiros"]
@@ -31,18 +32,26 @@ def gerar_desconto(canal):
 
 # 1. Tabela de Vendas
 datas_vendas = pd.date_range(start="2023-01-01", end="2023-12-31", freq="D")
+num_vendas = 1000  # Aumentando para 1000 registros
+
+# 1. Tabela de Vendas
+datas_vendas = pd.date_range(start="2023-01-01", end="2024-12-31", freq="D")
 vendas = pd.DataFrame({
-    "Data da Venda": np.random.choice(datas_vendas, size=500),  # 500 vendas ao longo do ano
-    "Apartamento": ["AP" + str(i).zfill(3) for i in range(1, 501)],
-    "Nome do Prédio": np.random.choice(nomes_predios, size=500),
-    "Padrão": np.random.choice(["Econômico", "Médio Padrão", "Alto Padrão", "Luxo"], size=500, p=[0.4, 0.3, 0.2, 0.1]),
-    "Número de Quartos": np.random.randint(1, 6, size=500),
-    "Número de Banheiros": np.random.randint(1, 4, size=500),
-    "Metragem (m²)": np.random.randint(50, 201, size=500),
-    "Vagas de Garagem": np.random.randint(1, 4, size=500),
-    "Canal de Venda": np.random.choice(canais_venda, size=500),
-    "Região": np.random.choice(regioes, size=500)
+    "Data da Venda": np.random.choice(datas_vendas, size=num_vendas),
+    "Apartamento": ["AP" + str(i).zfill(4) for i in range(1, num_vendas + 1)],
+    "Nome do Prédio": np.random.choice(nomes_predios, size=num_vendas),
+    "Padrão": np.random.choice(["Econômico", "Médio Padrão", "Alto Padrão", "Luxo"], size=num_vendas, p=[0.4, 0.3, 0.2, 0.1]),
+    "Número de Quartos": np.random.randint(1, 6, size=num_vendas),
+    "Número de Banheiros": np.random.randint(1, 4, size=num_vendas),
+    "Metragem (m²)": np.random.randint(50, 201, size=num_vendas),
+    "Vagas de Garagem": np.random.randint(1, 4, size=num_vendas),
+    "Canal de Venda": np.random.choice(canais_venda, size=num_vendas),
+    "Região": np.random.choice(regioes, size=num_vendas)
 })
+
+# Adicionando a coluna de Estado baseada na Região
+mapa_regiao_estado = dict(zip(regioes, estados))
+vendas["Estado"] = vendas["Região"].map(mapa_regiao_estado)
 
 # Aplicar preços e descontos
 vendas["Preço Unitário"] = vendas["Padrão"].apply(gerar_preco)
